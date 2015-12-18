@@ -1,0 +1,4 @@
+C:\is\SoftwareProjects\esem.tv\EsemTV\ANGenericRepository\bin\Debug\ANGenericRepository.dll
+C:\is\SoftwareProjects\esem.tv\EsemTV\ANGenericRepository\bin\Debug\ANGenericRepository.pdb
+C:\is\SoftwareProjects\esem.tv\EsemTV\ANGenericRepository\obj\Debug\ANGenericRepository.dll
+C:\is\SoftwareProjects\esem.tv\EsemTV\ANGenericRepository\obj\Debug\ANGenericRepository.pdb
