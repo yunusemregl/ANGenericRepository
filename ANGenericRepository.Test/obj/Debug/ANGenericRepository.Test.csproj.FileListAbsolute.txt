@@ -1,0 +1,7 @@
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository.Test\bin\Debug\ANGenericRepository.Test.exe
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository.Test\bin\Debug\ANGenericRepository.Test.pdb
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository.Test\bin\Debug\ANGenericRepository.dll
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository.Test\bin\Debug\ANGenericRepository.pdb
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository.Test\obj\Debug\ANGenericRepository.Test.csprojResolveAssemblyReference.cache
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository.Test\obj\Debug\ANGenericRepository.Test.exe
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository.Test\obj\Debug\ANGenericRepository.Test.pdb

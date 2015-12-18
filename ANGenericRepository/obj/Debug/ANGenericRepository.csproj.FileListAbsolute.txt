@@ -2,3 +2,8 @@ C:\is\SoftwareProjects\esem.tv\EsemTV\ANGenericRepository\bin\Debug\ANGenericRep
 C:\is\SoftwareProjects\esem.tv\EsemTV\ANGenericRepository\bin\Debug\ANGenericRepository.pdb
 C:\is\SoftwareProjects\esem.tv\EsemTV\ANGenericRepository\obj\Debug\ANGenericRepository.dll
 C:\is\SoftwareProjects\esem.tv\EsemTV\ANGenericRepository\obj\Debug\ANGenericRepository.pdb
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository\bin\Debug\ANGenericRepository.dll
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository\bin\Debug\ANGenericRepository.pdb
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository\obj\Debug\ANGenericRepository.csprojResolveAssemblyReference.cache
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository\obj\Debug\ANGenericRepository.dll
+F:\Github_Repositories\ANGenericRepository_Git\ANGenericRepository\obj\Debug\ANGenericRepository.pdb
